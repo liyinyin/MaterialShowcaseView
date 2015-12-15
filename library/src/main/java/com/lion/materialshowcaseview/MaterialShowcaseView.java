@@ -373,18 +373,18 @@ public class MaterialShowcaseView extends FrameLayout implements View.OnTouchLis
                     .getLayoutParams();
             if (mViewLocation == ViewLocation.LB || mViewLocation == ViewLocation.LT) {
                 int tempButtonBoxLeftMargin = mXPosition + mRadius + mArraw.getWidth() + ShowcaseConfig
-                        .ARRAW_BUTTON_MARGIN;
-                if (msWidth - tempButtonBoxLeftMargin < (mButtonBox.getWidth() + ShowcaseConfig.ARRAW_BUTTON_MARGIN +
+                        .ARROW_BUTTON_MARGIN;
+                if (msWidth - tempButtonBoxLeftMargin < (mButtonBox.getWidth() + ShowcaseConfig.ARROW_BUTTON_MARGIN +
                         contentMargin)) {
-                    buttonBoxLeftMargin = msWidth - (mButtonBox.getWidth() + ShowcaseConfig.ARRAW_BUTTON_MARGIN);
+                    buttonBoxLeftMargin = msWidth - (mButtonBox.getWidth() + ShowcaseConfig.ARROW_BUTTON_MARGIN);
                     needUpForContentBox = true;
                 } else {
                     buttonBoxLeftMargin = tempButtonBoxLeftMargin;
                 }
             } else if (mViewLocation == ViewLocation.RT || mViewLocation == ViewLocation.RB) {
                 int tempButtonBoxLeftMargin = mXPosition - mRadius - mArraw.getWidth() - mButtonBox.getWidth() -
-                        ShowcaseConfig.ARRAW_BUTTON_MARGIN;
-                if (tempButtonBoxLeftMargin < (ShowcaseConfig.ARRAW_BUTTON_MARGIN + contentMargin)) {
+                        ShowcaseConfig.ARROW_BUTTON_MARGIN;
+                if (tempButtonBoxLeftMargin < (ShowcaseConfig.ARROW_BUTTON_MARGIN + contentMargin)) {
                     buttonBoxLeftMargin = contentMargin;
                     needUpForContentBox = true;
                 } else {

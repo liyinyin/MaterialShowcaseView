@@ -9,9 +9,8 @@ public class ShowcaseConfig {
     public static final long DEFAULT_FADE_TIME = 300;
     public static final long DEFAULT_DELAY = 0;
     public static final int DEFAULT_RADIUS = 200;
-    public static final int DEFAULT_CONTENT_LAYOUT = R.layout.default_showcase_content;
     
-    public static final int ARRAW_BUTTON_MARGIN = 15;
+    public static final int ARROW_BUTTON_MARGIN = 15;
     
     public static final double DEFAULT_AUTO_RADIUS_SCALE_FACTOR = 1.4;
 
