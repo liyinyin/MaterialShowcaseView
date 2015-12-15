@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MaterialShowcaseView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_simple_single_example">SimpleSingleExample</string>
+    <string name="title_activity_custom_example">CustomExample</string>
+    <string name="title_activity_sequence_example">SequenceExample</string>
+
+    <string name="button_one">按钮 1</string>
+    <string name="button_two">按钮 2</string>
+    <string name="button_three">按钮 3</string>
+    <string name="reset">重置</string>
+
+    <string name="normal_text">这是一个正常的文本.</string>
+    <string name="short_text">短文本.</string>
+    <string name="long_text">这是一个很长很长很长很长很长很长很长很长的文本.</string>
+
+    <string name="sub_button">Sub 按钮</string>
+    <string name="sub_button_text">这个ShowcaseView是在按钮的动画结束之后显示的.</string>
+
+    <string name="fullscreen">全屏切换</string>
+</resources>

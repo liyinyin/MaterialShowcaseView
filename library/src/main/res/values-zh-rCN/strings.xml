@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skip_guide">跳过引导</string>
+    <string name="next_step">再来一个</string>
+    <string name="got_it">我知道啦</string>
+</resources>

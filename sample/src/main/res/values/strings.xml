@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MaterialShowcaseView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_simple_single_example">SimpleSingleExample</string>
+    <string name="title_activity_custom_example">CustomExample</string>
+    <string name="title_activity_sequence_example">SequenceExample</string>
+    <string name="title_activity_sub_sequence_example">SubSequenceExample</string>
+
+    <string name="sample_example">SAMPLE EXAMPLE</string>
+    <string name="custom_example">CUSTOM EXAMPLE</string>
+    <string name="sample_sequence_example">SAMPLE SEQUENCE EXAMPLE</string>
+    <string name="sample_sub_sequence_example">SAMPLE SUB SEQUENCE EXAMPLE</string>
+    <string name="reset_all_flags">Reset all flags</string>
+
+    <string name="button_one">Button 1</string>
+    <string name="button_two">Button 2</string>
+    <string name="button_three">Button 3</string>
+    <string name="reset">Reset</string>
+
+    <string name="normal_text">This is a normal text.</string>
+    <string name="short_text">Short text.</string>
+    <string name="long_text">This is a long long long long long long long long long long text.</string>
+
+    <string name="sub_button">Sub Button</string>
+    <string name="sub_button_text">This showcase view was showed after the animation finished.</string>
+
+    <string name="fullscreen">Fullscreen toggle</string>
+</resources>

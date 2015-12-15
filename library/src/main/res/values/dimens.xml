@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tv_content_margin">20dp</dimen>
+    <dimen name="content_box_margin_bottom">35dp</dimen>
+    
+    <dimen name="button_min_width">90dp</dimen>
+</resources>

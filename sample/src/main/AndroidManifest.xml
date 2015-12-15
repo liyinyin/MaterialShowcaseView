@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.lion.materialshowcaseviewsample"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SimpleSingleExample"
+            android:label="@string/title_activity_simple_single_example">
+        </activity>
+        <activity
+            android:name=".CustomExample"
+            android:label="@string/title_activity_custom_example">
+        </activity>
+        <activity
+            android:name=".SequenceExample"
+            android:label="@string/title_activity_sequence_example">
+        </activity>
+        <activity
+            android:name=".SubSequenceActivity"
+            android:label="@string/title_activity_sub_sequence_example">
+        </activity>
+    </application>
+
+</manifest>
