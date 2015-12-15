@@ -3,9 +3,14 @@ A ShowcaseView for Android
 
 This library is base on the [version] [2] for [MaterialShowcaseView] [1].
 
+ShowcaseView Sub Sequence
+![ShowcaseView Sub Sequence](/gif/sub_sequence_showcaseview.gif)
+
+TitleBar Activity switch Non TitleBar Activity
+![TitleBar Activity switch Non TitleBar Activity](/gif/fix_titlebar.gif)
+
 # Added
 - ShowcaseView Sub Sequence.
-    ![ShowcaseView Sub Sequence](/gif/sub_sequence_showcaseview.gif)
 - zh-rCN support.
 - Text font support.
 
