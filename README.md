@@ -3,6 +3,16 @@ A ShowcaseView for Android
 
 This library is base on the [version] [2] for [MaterialShowcaseView] [1].
 
+# Usage
+
+**Include the library as local library project or add the dependency in your build.gradle.**
+
+```
+dependencies {
+    compile 'com.lion.materialshowcaseview:library:1.0.0'
+}
+```
+
 ### ShowcaseView Sub Sequence 
 
 ![ShowcaseView Sub Sequence](/gif/sub_sequence_showcaseview.gif)
